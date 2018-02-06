@@ -5,4 +5,4 @@
 
 [RIT Link](http://rit.edu)
 
-
+![add a pic](http://canacopegdl.com/images/pic/pic-8.jpg)
