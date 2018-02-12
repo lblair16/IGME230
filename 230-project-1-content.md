@@ -31,5 +31,5 @@ The main goal of this game is to survive as long as possible, while absorbing as
 * Player Learning: The player will have to learn what combinations of rgb to use for each colored enemy
 
 ## Screenshots
-![Concept Image 1](https://people.rit.edu/~lrb8738/230/project1/media/rgb1-concept.png)
-![Concept Image 2](https://people.rit.edu/~lrb8738/230/project1/media/rgb2-concept.png)
+### ![Concept Image 1](https://people.rit.edu/~lrb8738/230/project1/media/rgb1-concept.png)
+### ![Concept Image 2](https://people.rit.edu/~lrb8738/230/project1/media/rgb2-concept.png)
