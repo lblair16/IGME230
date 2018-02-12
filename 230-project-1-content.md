@@ -1,4 +1,4 @@
-#Color Shooter
+# Color Shooter
 
 ## High Concept
 - It's like Galaga, but you have different bullets for different colored enemies
@@ -11,7 +11,7 @@
 ## Platform
 * Desktop Only
 
-##Story
+## Story
 You are the lone warrior, who's objective is to absorb all color in the universe. You always feel empty
 and are searching for a way to fill the void that you are, and by absorbing the other colors 
 you can gain a temporary feeling of fullness. The feeling just never seems to last, so you must continue 
