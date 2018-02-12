@@ -12,7 +12,7 @@
 * Desktop Only
 
 ## Story
-You are the lone warrior, who's objective is to absorb all color in the universe. You always feel empty
+You are the lone roguer, who's objective is to absorb all color in the universe. You always feel empty
 and are searching for a way to fill the void that you are, and by absorbing the other colors 
 you can gain a temporary feeling of fullness. The feeling just never seems to last, so you must continue 
 to absorb as much color as possible, for all eternity. 
@@ -31,5 +31,11 @@ The main goal of this game is to survive as long as possible, while absorbing as
 * Player Learning: The player will have to learn what combinations of rgb to use for each colored enemy
 
 ## Screenshots
-### ![Concept Image 1](https://people.rit.edu/~lrb8738/230/project1/media/rgb1-concept.png)
-### ![Concept Image 2](https://people.rit.edu/~lrb8738/230/project1/media/rgb2-concept.png)
+![Concept Image 1](https://people.rit.edu/~lrb8738/230/project1/media/rgb1-concept.png)
+![Concept Image 2](https://people.rit.edu/~lrb8738/230/project1/media/rgb2-concept.png)
+
+## About the Developer
+* Name: Lucas Blair
+* Major: Game Design and Development
+* School Year: Second Year
+* Skills: Programming, Maya, Illustrator, Videography, Design
