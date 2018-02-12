@@ -26,7 +26,10 @@ The main goal of this game is to survive as long as possible, while absorbing as
 
 ## Gameplay
 * Mechanics: switch between a combination of red, green, and blue color channels to match the color of the enemy you're shooting
-* Controls
-..* Mouse for movement 
-..* LMB to shoot
-..* r, g , and b keys to select a bullet color
+* Controls: Mouse for movement, LMB to shoot, r, g , and b keys to select a bullet color
+* Teaching the Game: A begining tutorial will teach the player how to play
+* Player Learning: The player will have to learn what combinations of rgb to use for each colored enemy
+
+## Screenshots
+![Concept Image 1](https://people.rit.edu/~lrb8738/230/project1/media/rgb1-concept.png)
+![Concept Image 2](https://people.rit.edu/~lrb8738/230/project1/media/rgb2-concept.png)
