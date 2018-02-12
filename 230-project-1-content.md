@@ -18,3 +18,15 @@ you can gain a temporary feeling of fullness. The feeling just never seems to la
 to absorb as much color as possible, for all eternity. 
 
 The main goal of this game is to survive as long as possible, while absorbing as many enemies as possible. 
+
+## Aesthetics
+* Graphics Style: Abstract, Geometric
+* Sound: dubstep background music
+* Sound Effects: absorbing enemies, shooting, injury, clicking menu buttons
+
+## Gameplay
+* Mechanics: switch between a combination of red, green, and blue color channels to match the color of the enemy you're shooting
+* Controls
+..* Mouse for movement 
+..* LMB to shoot
+..* r, g , and b keys to select a bullet color
