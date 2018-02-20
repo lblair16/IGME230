@@ -1,4 +1,4 @@
-# Color Shooter
+# Absorb
 
 ## High Concept
 - It's like Galaga, but you have different bullets for different colored enemies
